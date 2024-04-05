@@ -1,0 +1,12 @@
+spring.application.name=
+
+spring.datasource.url=
+spring.datasource.username=
+spring.datasource.password=
+
+spring.datasource.driver-class-name=
+spring.jpa.database-platform=
+spring.jpa.hibernate.ddl-auto=
+
+aws.access.key=
+aws.secret.key=
