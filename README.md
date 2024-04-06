@@ -89,7 +89,7 @@ Setup Instructions:
 
     or as an External user with the credentials:
         - User: external
-        - Password: testExteral
+        - Password: testExternal
 
     Access the endpoints based on the provided routes.
 
